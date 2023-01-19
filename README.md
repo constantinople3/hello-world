@@ -1,3 +1,2 @@
 # hello-world
-Hello World! 
-- FRC 2506
+Hello World! FRC 2506
